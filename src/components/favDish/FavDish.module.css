@@ -1,0 +1,34 @@
+.container {
+    
+    margin: 20px;
+  }
+  
+  .recipesContainer {
+    margin-top: 20px;
+  }
+  
+  .margarita, .peperoni, .fourCheese, .burger {
+    margin-bottom: 10px;
+  }
+  
+  .btnContainer {
+    margin-top: 20px;
+  }
+  
+  .base, .ingredients {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
